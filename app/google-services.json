@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "299898544068",
+    "firebase_url": "https://mba-fiap-79e61.firebaseio.com",
+    "project_id": "mba-fiap-79e61",
+    "storage_bucket": "mba-fiap-79e61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299898544068:android:5750a14fd99d721ea50e91",
+        "android_client_info": {
+          "package_name": "com.fiap.mba_fiap_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299898544068-k2ds18mvgmmifckk13t4rh2ldjg43jkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgwOmIdEKLFNm-Imu2BZs0Zq07hp8kcbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299898544068-k2ds18mvgmmifckk13t4rh2ldjg43jkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

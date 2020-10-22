@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MBA_FIAP_IOT</string>
+    <string name="sensor_rotate_off">Rotação OFF</string>
+    <string name="sensor_rotate_on">Rotação ON</string>
+    <string name="guardian_off">Guardião OFF</string>
+    <string name="guardian_on">Guardião ON</string>
+</resources>
